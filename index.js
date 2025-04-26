@@ -40,10 +40,7 @@ app.post("/add-student",(req,res) => {
 //delete a student with specific name using query params
 app.delete("/delete-student", (req,res) => {
     const name = req.query.name;
-    for (let i = 0; i < students.length; i++ ) {
-        if (students.at(i).name == name)
-            students.pop(i);
-    }
+    students = students.filter(student => student.name !== name);
     res.send("The student has been successfully deleted!");
 });
 
