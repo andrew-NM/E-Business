@@ -52,6 +52,12 @@ This project is a backend application. You can interact with it using tools like
 - `node_modules/`: Contains all npm packages.
 - `videos/`: Placeholder for video assets.
 
+## Contributors
+- Andrew Naeem
+- Andrew Victor
+- Islam Hattab
+- Ismail Nasser
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
