@@ -55,7 +55,3 @@ This project is a backend application. You can interact with it using tools like
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
