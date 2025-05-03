@@ -1,6 +1,6 @@
 # E-Business
 
-A foundational e-commerce backend application developed using Node.js. This project serves as a learning platform to understand the basics of building an e-commerce system, including product management and database interactions.
+This project is a simple RESTful API built with Node.js, Express.js, and MongoDB Atlas, designed for managing students and doctors' data online.
 
 ## Features
 
